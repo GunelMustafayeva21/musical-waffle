@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\bin\Debug\netcoreapp3.1\FiveApril.exe
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\bin\Debug\netcoreapp3.1\FiveApril.deps.json
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\bin\Debug\netcoreapp3.1\FiveApril.runtimeconfig.json
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\bin\Debug\netcoreapp3.1\FiveApril.runtimeconfig.dev.json
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\bin\Debug\netcoreapp3.1\FiveApril.dll
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\bin\Debug\netcoreapp3.1\FiveApril.pdb
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\obj\Debug\netcoreapp3.1\FiveApril.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\obj\Debug\netcoreapp3.1\FiveApril.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\obj\Debug\netcoreapp3.1\FiveApril.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\obj\Debug\netcoreapp3.1\FiveApril.AssemblyInfo.cs
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\obj\Debug\netcoreapp3.1\FiveApril.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\obj\Debug\netcoreapp3.1\FiveApril.dll
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\obj\Debug\netcoreapp3.1\FiveApril.pdb
+C:\Users\User\Desktop\BP101\FiveApril\FiveApril\obj\Debug\netcoreapp3.1\FiveApril.genruntimeconfig.cache
