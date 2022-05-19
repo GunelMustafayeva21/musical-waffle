@@ -1,0 +1,15 @@
+.first, .second {
+  display: inline-block;
+}
+
+.first img {
+  width: 200px;
+}
+
+.navbar {
+  margin-top: 3%;
+}
+
+.second a {
+  margin-left: 5%;
+}
