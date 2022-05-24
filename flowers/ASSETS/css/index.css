@@ -61,7 +61,7 @@ a:hover {
 }
 
 .card {
-  position: absolute;
+  margin-bottom: 13%;
 }
 
 .logo-menu {
@@ -73,12 +73,8 @@ a:hover {
           justify-content: space-between;
 }
 
-.row {
-  z-index: 1;
-}
-
 .inner {
-  height: 80vh;
+  height: 100vh;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -109,4 +105,19 @@ a:hover {
 
 .myContainer1 {
   padding: 0 11%;
+}
+
+.card {
+  overflow: hidden;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+.card img:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.card-body {
+  padding-top: 7%;
 }
