@@ -121,3 +121,21 @@ a:hover {
 .card-body {
   padding-top: 7%;
 }
+
+.pic {
+  background-image: url("/ASSETS/IMAGES/h3-video-img.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+}
+
+#surprise .myContainer1 {
+  background-color: #F7F7F9;
+  height: 60vh;
+}
+
+.video-text {
+  font-size: larger;
+  height: 40vh;
+}
